@@ -15,3 +15,10 @@ tbd
 
 - Guille
 
+## ToDo List
+
+- Connect master and slave services
+- Define the communication protocol
+- Integrate rocket and create simple api to controlled the files (remover, coping, moving, etc) between the services.
+- Investigate and integrate a library for managing the application args.
+
